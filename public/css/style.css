@@ -1,0 +1,79 @@
+body{ 
+    background-color: rgb(171, 141, 199);
+}
+.registration{
+    background-color:rgb(187, 98, 165);;
+    position: absolute;
+    top: 39% ;
+    left: 22%;
+    padding:65px;
+    height: 245px;
+    box-shadow: 5px 5px black;
+    width: 600px;
+    border-radius: 5px;
+}
+*{
+    padding:0;
+    margin:1%;
+}
+
+.login{
+    background-color: rgb(187, 98, 165);
+    position: absolute;
+    top: 1%;
+    left: 28%;
+    height: 150px;
+    padding: 30px;
+    padding-right: 50px;
+    border-radius: 5px;
+    box-shadow: 5px 5px black;
+
+}
+.registration input{
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 250px;
+    height: 40px;
+    text-align:center;
+    
+}
+h1{
+font-family:Blaka;
+position: absolute;
+    bottom: 300px;
+    left: 38%;
+    
+}
+h2{
+    font-family:Blaka;
+   font-size: 35px;
+   text-align: center;
+}
+.login input{
+    border: 2px solid black;
+    border-radius: 3px;
+    width: 250px;
+    height: 40px;
+
+}
+button{
+    background-color: rgb(189, 113, 14);
+    height: 40px;
+    width: 190px;
+    
+    
+}
+.btn_register{
+    background-color: rgb(189, 113, 14);
+    height: 40px;
+    width: 190px;
+    position: absolute;
+    left: 33%;    
+}
+.btn_login{
+    background-color: rgb(189, 113, 14);
+    height: 40px;
+    width: 190px;
+    position: absolute;
+    left: 33%;    
+}

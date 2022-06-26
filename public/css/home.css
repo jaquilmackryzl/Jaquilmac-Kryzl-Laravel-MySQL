@@ -1,0 +1,48 @@
+body{ 
+    background-color: rgb(171, 141, 199);
+}
+th{
+    color: black;
+    padding: 5px;
+    background-color: antiquewhite;
+    font-size: 20px;
+}
+td{
+    color: black;
+    padding: 5px;
+    background-color: beige;
+    font-size: 20px;
+}
+table{
+    margin: auto;
+
+}
+.logout{
+    position: absolute;
+    left: 80%;
+    top: 80%;
+    background-color: rgb(189, 113, 14);
+    height: 40px;
+    width: 190px;
+    
+
+}
+
+.add{
+    position: absolute;
+    left: 68%;
+    top: 80%;
+    background-color: rgb(189, 113, 14);
+    height: 40px;
+    width: 190px;
+
+}
+
+.add a{
+    text-decoration: none;
+    color: black;
+}
+.logout a{
+    text-decoration: none;
+    color: black;
+}
